@@ -5,8 +5,6 @@
 layout: home
 ---
 
-
-
 ## Problem Statement
 
 By creating this research data repository, we will be able to better understand and address the unique health challenging problems faced by diverse communities, particularly those from historically marginalized backgrounds. This will enable us to work towards achieving the North Star goals, which include fostering a diverse, equitable, and inclusive AI/ML workforce, increasing knowledge and community engagement in AI/ML, and building community capacity in AI/ML to tackle community-centric health issues.
