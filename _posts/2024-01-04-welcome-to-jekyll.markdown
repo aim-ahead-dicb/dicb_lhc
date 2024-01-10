@@ -4,7 +4,7 @@ title:  "biweekly meeting"
 date:   2024-01-04 23:29:14 -0600
 categories: jekyll update
 ---
-## DICB Plan Summary
+# DICB Plan Summary
 
 ### Steps to achieve milestones
 
